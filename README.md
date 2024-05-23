@@ -11,7 +11,7 @@ In this course, you will learn what Structured Query Language (SQL) and database
 
 ## Scenarios
 
-|   Index | Name                               | Difficulty   | URL                                                                        |
+|   Index | Name                               | Difficulty   | Practice                                                                   |
 |---------|------------------------------------|--------------|----------------------------------------------------------------------------|
 |       1 | 📖 Database Management Fundamentals | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178584'>Start Lab</a>       |
 |       2 | 📖 Mastering SQL's SELECT Statement | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178585'>Start Lab</a>       |
@@ -19,4 +19,9 @@ In this course, you will learn what Structured Query Language (SQL) and database
 |       4 | 🎯 Modify Table Definition          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178581'>Start Challenge</a> |
 |       5 | 📖 Other Basic Operations           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178587'>Start Lab</a>       |
 |       6 | 🎯 Make Database More Secure        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/178582'>Start Challenge</a> |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
 
