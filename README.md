@@ -22,6 +22,7 @@ In this course, you will learn what Structured Query Language (SQL) and database
 
 ## More
 
-- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
 - 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
 
