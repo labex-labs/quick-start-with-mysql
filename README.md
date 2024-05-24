@@ -1,6 +1,6 @@
 # Quick Start with MySQL
 
-![Quick Start with MySQL](https://cover-creator.labex.io/quick-start-with-mysql.png)
+![Quick Start with MySQL](https://cover-creator.appbot.io/quick-start-with-mysql.png)
 
 In this course, you will learn what Structured Query Language (SQL) and databases are, the basics of database management, how to set up and configure MySQL, and how to get MySQL client to connect to a MySQL Server.
 
