@@ -30,13 +30,13 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |   Index | Name                                            | Difficulty   | Practice                                                                                                                      |
 |---------|-------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
 |       1 | 📖 Installation and Basic Configuration of MySQL | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-installation-and-basic-configuration-of-mysql-391538'>Start Lab</a> |
-|       2 | 🎯 Explore MySQL System Tables                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/mysql-explore-mysql-system-tables-391702'>Start Challenge</a>             |
+|       2 | 🎯 Explore MySQL System Tables                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/mysql-explore-mysql-system-tables-391702'>Start Challenge</a>                  |
 |       3 | 📖 Database Management Fundamentals              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/mysql-database-management-fundamentals-391537'>Start Lab</a>              |
 |       4 | 📖 SQL's SELECT Statement                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/mysql-sql-s-select-statement-391541'>Start Lab</a>                        |
 |       5 | 📖 Modify and Delete                             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/mysql-modify-and-delete-391539'>Start Lab</a>                             |
-|       6 | 🎯 Modify Table Definition                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/mysql-modify-table-definition-391536'>Start Challenge</a>                 |
+|       6 | 🎯 Modify Table Definition                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/mysql-modify-table-definition-391536'>Start Challenge</a>                      |
 |       7 | 📖 Other Basic Operations                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-other-basic-operations-391540'>Start Lab</a>                        |
-|       8 | 🎯 Make Database More Secure                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/mysql-make-database-more-secure-391535'>Start Challenge</a>               |
+|       8 | 🎯 Make Database More Secure                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/mysql-make-database-more-secure-391535'>Start Challenge</a>                    |
 
 ## More
 
