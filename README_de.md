@@ -33,27 +33,27 @@ Erfahren Sie mehr über [LabEx VM](https://support.labex.io/using-labex/virtual-
 
 |   Index | Name                                               | Schwierigkeit   | Übung                                                                                                                                |
 |---------|----------------------------------------------------|-----------------|--------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Installation und Grundkonfiguration von MySQL   | ★★☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>Labor Starten</a> |
-|      02 | 🎯 Entdecken Sie MySQL-Systemtabellen              | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-explore-mysql-system-tables-391702'>Challenge Starten</a>               |
-|      03 | 📖 Grundlagen des Datenbankmanagements mit MySQL   | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>Labor Starten</a>   |
-|      04 | 🎯 Erstellen Sie Ihre erste MySQL-Datenbank        | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-create-your-first-mysql-database-418265'>Challenge Starten</a>          |
-|      05 | 📖 MySQL-Tabellenstruktur und Datentypen           | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-table-structure-and-data-types-418307'>Labor Starten</a>          |
-|      06 | 🎯 Erstellen einer Produktkatalogtabelle           | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-create-a-product-catalog-table-418298'>Challenge Starten</a>            |
-|      07 | 📖 Grundlegende Datenmanipulation in MySQL         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/sql-mysql-basic-data-manipulation-418303'>Labor Starten</a>                   |
-|      08 | 🎯 Herausforderung: Filmdaten erfassen             | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-record-movie-data-challenge-418302'>Challenge Starten</a>               |
-|      09 | 📖 MySQL-Datenfilterung und -sortierung            | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>Labor Starten</a>              |
-|      10 | 🎯 Buchsuche-Herausforderung                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-book-search-challenge-418297'>Challenge Starten</a>                     |
-|      11 | 📖 MySQL-Mehrtabellen-Operationen                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-multi-table-operations-418306'>Labor Starten</a>                  |
-|      12 | 🎯 Herausforderung: Autoren- und Buchinformationen | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-author-book-information-challenge-418296'>Challenge Starten</a>         |
-|      13 | 📖 MySQL-Datenaggregation und -Gruppierung         | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>Labor Starten</a>           |
-|      14 | 🎯 MySQL Verkaufsdatenanalyse-Herausforderung      | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>Challenge Starten</a>       |
-|      15 | 📖 MySQL-Benutzer- und Berechtigungsverwaltung     | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-user-and-privileges-management-418308'>Labor Starten</a>          |
-|      16 | 🎯 MySQL-Datenbankzugangshallenge                  | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-database-access-challenge-418300'>Challenge Starten</a>           |
-|      17 | 🎯 Datenbank sicherer machen                       | ★☆☆             | <a target='_blank' href='https://labex.io/de/tutorials/mysql-make-database-more-secure-391535'>Challenge Starten</a>                 |
+|      01 | 📖 Installation und Grundkonfiguration von MySQL   | Fortgeschritten | <a target='_blank' href='https://labex.io/de/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>Labor Starten</a> |
+|      02 | 🎯 Entdecken Sie MySQL-Systemtabellen              | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-explore-mysql-system-tables-391702'>Challenge Starten</a>               |
+|      03 | 📖 Grundlagen des Datenbankmanagements mit MySQL   | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>Labor Starten</a>   |
+|      04 | 🎯 Erstellen Sie Ihre erste MySQL-Datenbank        | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-create-your-first-mysql-database-418265'>Challenge Starten</a>          |
+|      05 | 📖 MySQL-Tabellenstruktur und Datentypen           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-table-structure-and-data-types-418307'>Labor Starten</a>          |
+|      06 | 🎯 Erstellen einer Produktkatalogtabelle           | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-create-a-product-catalog-table-418298'>Challenge Starten</a>            |
+|      07 | 📖 Grundlegende Datenmanipulation in MySQL         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/sql-mysql-basic-data-manipulation-418303'>Labor Starten</a>                   |
+|      08 | 🎯 Herausforderung: Filmdaten erfassen             | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-record-movie-data-challenge-418302'>Challenge Starten</a>               |
+|      09 | 📖 MySQL-Datenfilterung und -sortierung            | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>Labor Starten</a>              |
+|      10 | 🎯 Buchsuche-Herausforderung                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-book-search-challenge-418297'>Challenge Starten</a>                     |
+|      11 | 📖 MySQL-Mehrtabellen-Operationen                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-multi-table-operations-418306'>Labor Starten</a>                  |
+|      12 | 🎯 Herausforderung: Autoren- und Buchinformationen | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-author-book-information-challenge-418296'>Challenge Starten</a>         |
+|      13 | 📖 MySQL-Datenaggregation und -Gruppierung         | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>Labor Starten</a>           |
+|      14 | 🎯 MySQL Verkaufsdatenanalyse-Herausforderung      | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>Challenge Starten</a>       |
+|      15 | 📖 MySQL-Benutzer- und Berechtigungsverwaltung     | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-user-and-privileges-management-418308'>Labor Starten</a>          |
+|      16 | 🎯 MySQL-Datenbankzugangshallenge                  | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-mysql-database-access-challenge-418300'>Challenge Starten</a>           |
+|      17 | 🎯 Datenbank sicherer machen                       | Anfänger        | <a target='_blank' href='https://labex.io/de/tutorials/mysql-make-database-more-secure-391535'>Challenge Starten</a>                 |
 
 ## Mehr
 
-- 🔗 [MySQL Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MySQL Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MySQL Free Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
+- 🔗 [MySQL Programmierungskurse](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [MySQL Programmierprojekte](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [MySQL Kostenlose Tutorials](https://github.com/labex-labs/mysql-free-tutorials)
 
