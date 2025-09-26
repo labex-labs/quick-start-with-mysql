@@ -19,23 +19,23 @@ In this course, you will learn what Structured Query Language (SQL) and database
 
 |   Index | Name                                                | Difficulty   | Practice                                                                                                                      |
 |---------|-----------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🟢 Installation and Basic Configuration of MySQL | Intermediate | <a target='_blank' href='https://labex.io/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>Start Lab</a> |
-|      02 | 🎯 🟢 Explore MySQL System Tables                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-explore-mysql-system-tables-391702'>Start Challenge</a>             |
-|      03 | 📖 🟢 Database Management Fundamentals with MySQL   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>Start Lab</a>   |
-|      04 | 🎯 🟢 Create Your First MySQL Database              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-create-your-first-mysql-database-418265'>Start Challenge</a>        |
-|      05 | 📖 🟢 MySQL Table Structure and Data Types          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-table-structure-and-data-types-418307'>Start Lab</a>          |
-|      06 | 🎯 🟢 Create a Product Catalog Table                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-create-a-product-catalog-table-418298'>Start Challenge</a>          |
-|      07 | 📖 🟢 MySQL Basic Data Manipulation                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sql-mysql-basic-data-manipulation-418303'>Start Lab</a>                   |
-|      08 | 🎯 🟢 Record Movie Data Challenge                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-record-movie-data-challenge-418302'>Start Challenge</a>             |
-|      09 | 📖 🟢 MySQL Data Filtering and Sorting              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>Start Lab</a>              |
-|      10 | 🎯 🟢 Book Search Challenge                         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-book-search-challenge-418297'>Start Challenge</a>                   |
-|      11 | 📖 🔵 MySQL Multi-Table Operations                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-multi-table-operations-418306'>Start Lab</a>                  |
-|      12 | 🎯 🔵 Author Book Information Challenge             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-author-book-information-challenge-418296'>Start Challenge</a>       |
-|      13 | 📖 🔵 MySQL Data Aggregation and Grouping           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>Start Lab</a>           |
-|      14 | 🎯 🔵 MySQL Sales Data Analysis Challenge           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>Start Challenge</a>     |
-|      15 | 📖 🔵 MySQL User and Privileges Management          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-user-and-privileges-management-418308'>Start Lab</a>          |
-|      16 | 🎯 🔵 MySQL Database Access Challenge               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-database-access-challenge-418300'>Start Challenge</a>         |
-|      17 | 🎯 🔵 Make Database More Secure                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-make-database-more-secure-391535'>Start Challenge</a>               |
+|      01 | 📖 🆓 Installation and Basic Configuration of MySQL | Intermediate | <a target='_blank' href='https://labex.io/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>Start Lab</a> |
+|      02 | 🎯 🆓 Explore MySQL System Tables                   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-explore-mysql-system-tables-391702'>Start Challenge</a>             |
+|      03 | 📖 🆓 Database Management Fundamentals with MySQL   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>Start Lab</a>   |
+|      04 | 🎯 🆓 Create Your First MySQL Database              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-create-your-first-mysql-database-418265'>Start Challenge</a>        |
+|      05 | 📖 🆓 MySQL Table Structure and Data Types          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-table-structure-and-data-types-418307'>Start Lab</a>          |
+|      06 | 🎯 🆓 Create a Product Catalog Table                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-create-a-product-catalog-table-418298'>Start Challenge</a>          |
+|      07 | 📖 🆓 MySQL Basic Data Manipulation                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/sql-mysql-basic-data-manipulation-418303'>Start Lab</a>                   |
+|      08 | 🎯  Record Movie Data Challenge                     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-record-movie-data-challenge-418302'>Start Challenge</a>             |
+|      09 | 📖  MySQL Data Filtering and Sorting                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>Start Lab</a>              |
+|      10 | 🎯  Book Search Challenge                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-book-search-challenge-418297'>Start Challenge</a>                   |
+|      11 | 📖  MySQL Multi-Table Operations                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-multi-table-operations-418306'>Start Lab</a>                  |
+|      12 | 🎯  Author Book Information Challenge               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-author-book-information-challenge-418296'>Start Challenge</a>       |
+|      13 | 📖  MySQL Data Aggregation and Grouping             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>Start Lab</a>           |
+|      14 | 🎯  MySQL Sales Data Analysis Challenge             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>Start Challenge</a>     |
+|      15 | 📖  MySQL User and Privileges Management            | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-user-and-privileges-management-418308'>Start Lab</a>          |
+|      16 | 🎯  MySQL Database Access Challenge                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-mysql-database-access-challenge-418300'>Start Challenge</a>         |
+|      17 | 🎯  Make Database More Secure                       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/mysql-make-database-more-secure-391535'>Start Challenge</a>               |
 
 ## Environment
 
