@@ -19,23 +19,23 @@
 
 |   인덱스 | 이름                                         | 난이도   | 연습                                                                                                                             |
 |----------|----------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 MySQL 설치 및 기본 설정                | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>실습 시작</a> |
-|       02 | 🎯 🟢 MySQL 시스템 테이블 탐색               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-explore-mysql-system-tables-391702'>도전 시작</a>                   |
-|       03 | 📖 🟢 MySQL 을 이용한 데이터베이스 관리 기본 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>실습 시작</a>   |
-|       04 | 🎯 🟢 첫 번째 MySQL 데이터베이스 생성하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-create-your-first-mysql-database-418265'>도전 시작</a>              |
-|       05 | 📖 🟢 MySQL 테이블 구조 및 데이터 유형       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307'>실습 시작</a>          |
-|       06 | 🎯 🟢 제품 카탈로그 테이블 생성              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-create-a-product-catalog-table-418298'>도전 시작</a>                |
-|       07 | 📖 🟢 MySQL 기본 데이터 조작                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303'>실습 시작</a>                   |
-|       08 | 🎯 🟢 영화 데이터 기록 챌린지                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-record-movie-data-challenge-418302'>도전 시작</a>                   |
-|       09 | 📖 🟢 MySQL 데이터 필터링 및 정렬            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>실습 시작</a>              |
-|       10 | 🎯 🟢 도서 검색 챌린지                       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-book-search-challenge-418297'>도전 시작</a>                         |
-|       11 | 📖 🔵 MySQL 다중 테이블 연산                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-multi-table-operations-418306'>실습 시작</a>                  |
-|       12 | 🎯 🔵 저자 도서 정보 챌린지                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-author-book-information-challenge-418296'>도전 시작</a>             |
-|       13 | 📖 🔵 MySQL 데이터 집계 및 그룹화            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>실습 시작</a>           |
-|       14 | 🎯 🔵 MySQL 판매 데이터 분석 챌린지          | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>도전 시작</a>           |
-|       15 | 📖 🔵 MySQL 사용자 및 권한 관리              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-user-and-privileges-management-418308'>실습 시작</a>          |
-|       16 | 🎯 🔵 MySQL 데이터베이스 접근 권한 챌린지    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-database-access-challenge-418300'>도전 시작</a>               |
-|       17 | 🎯 🔵 데이터베이스 보안 강화                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-make-database-more-secure-391535'>도전 시작</a>                     |
+|       01 | 📖 🆓 MySQL 설치 및 기본 설정                | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>실습 시작</a> |
+|       02 | 🎯 🆓 MySQL 시스템 테이블 탐색               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-explore-mysql-system-tables-391702'>도전 시작</a>                   |
+|       03 | 📖 🆓 MySQL 을 이용한 데이터베이스 관리 기본 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>실습 시작</a>   |
+|       04 | 🎯 🆓 첫 번째 MySQL 데이터베이스 생성하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-create-your-first-mysql-database-418265'>도전 시작</a>              |
+|       05 | 📖 🆓 MySQL 테이블 구조 및 데이터 유형       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307'>실습 시작</a>          |
+|       06 | 🎯 🆓 제품 카탈로그 테이블 생성              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-create-a-product-catalog-table-418298'>도전 시작</a>                |
+|       07 | 📖 🆓 MySQL 기본 데이터 조작                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303'>실습 시작</a>                   |
+|       08 | 🎯  영화 데이터 기록 챌린지                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-record-movie-data-challenge-418302'>도전 시작</a>                   |
+|       09 | 📖  MySQL 데이터 필터링 및 정렬              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>실습 시작</a>              |
+|       10 | 🎯  도서 검색 챌린지                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-book-search-challenge-418297'>도전 시작</a>                         |
+|       11 | 📖  MySQL 다중 테이블 연산                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-multi-table-operations-418306'>실습 시작</a>                  |
+|       12 | 🎯  저자 도서 정보 챌린지                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-author-book-information-challenge-418296'>도전 시작</a>             |
+|       13 | 📖  MySQL 데이터 집계 및 그룹화              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>실습 시작</a>           |
+|       14 | 🎯  MySQL 판매 데이터 분석 챌린지            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>도전 시작</a>           |
+|       15 | 📖  MySQL 사용자 및 권한 관리                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-user-and-privileges-management-418308'>실습 시작</a>          |
+|       16 | 🎯  MySQL 데이터베이스 접근 권한 챌린지      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-database-access-challenge-418300'>도전 시작</a>               |
+|       17 | 🎯  데이터베이스 보안 강화                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-make-database-more-secure-391535'>도전 시작</a>                     |
 
 ## 환경
 
