@@ -1,14 +1,14 @@
-# MySQL 快速入门
+# MySQL 入门
 
 ## 支持语言
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![MySQL 快速入门](https://cover-creator.labex.io/quick-start-with-mysql.png?lang=zh)](https://labex.io/zh/courses/quick-start-with-mysql)
+[![MySQL 入门](https://cover-creator.labex.io/mysql-for-beginners.png?lang=zh)](https://labex.io/zh/courses/mysql-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/quick-start-with-mysql)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/zh/courses/mysql-for-beginners)
 
-在本课程中，你将学习什么是结构化查询语言（SQL）和数据库，数据库管理的基础知识，如何设置和配置 MySQL，以及如何使用 MySQL 客户端连接到 MySQL 服务器。
+在本课程中，您将学习结构化查询语言 (SQL) 和数据库的基础知识、数据库管理基础、如何设置和配置 MySQL，以及如何使 MySQL 客户端连接到 MySQL Server。
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
