@@ -1,14 +1,14 @@
-# MySQL のクイックスタート
+# 初心者向け MySQL
 
 ## 言語
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![MySQL のクイックスタート](https://cover-creator.labex.io/quick-start-with-mysql.png?lang=ja)](https://labex.io/ja/courses/quick-start-with-mysql)
+[![初心者向け MySQL](https://cover-creator.labex.io/mysql-for-beginners.png?lang=ja)](https://labex.io/ja/courses/mysql-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/quick-start-with-mysql)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ja/courses/mysql-for-beginners)
 
-このコースでは、構造化照会言語（SQL）とデータベースとは何か、データベース管理の基本、MySQL のセットアップと構成方法、および MySQL クライアントを MySQL サーバーに接続する方法を学びます。
+このコースでは、構造化クエリ言語（SQL）とデータベースとは何か、データベース管理の基本、MySQL のセットアップと設定方法、および MySQL クライアントを MySQL サーバーに接続する方法を学びます。
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
