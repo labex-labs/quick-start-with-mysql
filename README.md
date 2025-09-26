@@ -1,12 +1,12 @@
-# Quick Start with MySQL
+# MySQL for Beginners
 
 ## Languages
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Quick Start with MySQL](https://cover-creator.labex.io/quick-start-with-mysql.png)](https://labex.io/courses/quick-start-with-mysql)
+[![MySQL for Beginners](https://cover-creator.labex.io/mysql-for-beginners.png)](https://labex.io/courses/mysql-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/quick-start-with-mysql)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/courses/mysql-for-beginners)
 
 In this course, you will learn what Structured Query Language (SQL) and databases are, the basics of database management, how to set up and configure MySQL, and how to get MySQL client to connect to a MySQL Server.
 
