@@ -1,14 +1,14 @@
-# Inicio rápido con MySQL
+# MySQL para Principiantes
 
 ## Idiomas
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Inicio rápido con MySQL](https://cover-creator.labex.io/quick-start-with-mysql.png?lang=es)](https://labex.io/es/courses/quick-start-with-mysql)
+[![MySQL para Principiantes](https://cover-creator.labex.io/mysql-for-beginners.png?lang=es)](https://labex.io/es/courses/mysql-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/quick-start-with-mysql)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/mysql-for-beginners)
 
-En este curso, aprenderá qué es el Lenguaje de Consulta Estructurada (SQL) y las bases de datos, los conceptos básicos de la gestión de bases de datos, cómo configurar e instalar MySQL y cómo utilizar el cliente de MySQL para conectarse a un servidor MySQL.
+En este curso, aprenderá qué son el Lenguaje de Consulta Estructurado (SQL) y las bases de datos, los conceptos básicos de la gestión de bases de datos, cómo configurar y optimizar MySQL, y cómo conectar el cliente MySQL a un Servidor MySQL.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
