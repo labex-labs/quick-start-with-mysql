@@ -1,14 +1,14 @@
-# Быстрый старт с MySQL
+# MySQL для начинающих
 
 ## Языки
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![Быстрый старт с MySQL](https://cover-creator.labex.io/quick-start-with-mysql.png?lang=ru)](https://labex.io/ru/courses/quick-start-with-mysql)
+[![MySQL для начинающих](https://cover-creator.labex.io/mysql-for-beginners.png?lang=ru)](https://labex.io/ru/courses/mysql-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/quick-start-with-mysql)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ru/courses/mysql-for-beginners)
 
-В этом курсе вы узнаете, что такое Structured Query Language (SQL) и базы данных, основы управления базами данных, как установить и настроить MySQL, а также как подключить клиент MySQL к серверу MySQL.
+В этом курсе вы узнаете, что такое структурированный язык запросов (SQL) и базы данных, основы управления базами данных, как настроить и сконфигурировать MySQL, а также как подключить клиент MySQL к серверу MySQL.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
