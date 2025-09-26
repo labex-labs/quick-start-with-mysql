@@ -1,14 +1,14 @@
-# MySQL 퀵 스타트
+# 초보자를 위한 MySQL
 
 ## 언어
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
-[![MySQL 퀵 스타트](https://cover-creator.labex.io/quick-start-with-mysql.png?lang=ko)](https://labex.io/ko/courses/quick-start-with-mysql)
+[![초보자를 위한 MySQL](https://cover-creator.labex.io/mysql-for-beginners.png?lang=ko)](https://labex.io/ko/courses/mysql-for-beginners)
 
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/quick-start-with-mysql)
+[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/ko/courses/mysql-for-beginners)
 
-본 과정에서는 구조화 질의 언어 (SQL) 와 데이터베이스가 무엇인지, 데이터베이스 관리의 기본 사항, MySQL 설정 및 구성 방법, 그리고 MySQL 클라이언트가 MySQL 서버에 연결하는 방법을 배우게 됩니다.
+본 과정에서는 구조화된 쿼리 언어 (SQL) 와 데이터베이스가 무엇인지, 데이터베이스 관리의 기본 사항, MySQL 설정 및 구성 방법, 그리고 MySQL 클라이언트가 MySQL 서버에 연결하는 방법을 배웁니다.
 
 ![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
 ![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
