@@ -17,29 +17,29 @@
 
 ## 연습
 
-|   인덱스 | 이름                                         | 난이도   | 연습                                                                                                                             |
-|----------|----------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🆓 MySQL 설치 및 기본 설정                | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-installation-and-basic-configuration-of-mysql-418415'>실습 시작</a> |
-|       02 | 🎯 🆓 MySQL 시스템 테이블 탐색               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-explore-mysql-system-tables-391702'>도전 시작</a>                   |
-|       03 | 📖 🆓 MySQL 을 이용한 데이터베이스 관리 기본 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-database-management-fundamentals-with-mysql-418414'>실습 시작</a>   |
-|       04 | 🎯 🆓 첫 번째 MySQL 데이터베이스 생성하기    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-create-your-first-mysql-database-418265'>도전 시작</a>              |
-|       05 | 📖 🆓 MySQL 테이블 구조 및 데이터 유형       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-table-structure-and-data-types-418307'>실습 시작</a>          |
-|       06 | 🎯 🆓 제품 카탈로그 테이블 생성              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-create-a-product-catalog-table-418298'>도전 시작</a>                |
-|       07 | 📖 🆓 MySQL 기본 데이터 조작                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/sql-mysql-basic-data-manipulation-418303'>실습 시작</a>                   |
-|       08 | 🎯  영화 데이터 기록 챌린지                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-record-movie-data-challenge-418302'>도전 시작</a>                   |
-|       09 | 📖  MySQL 데이터 필터링 및 정렬              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-data-filtering-and-sorting-418305'>실습 시작</a>              |
-|       10 | 🎯  도서 검색 챌린지                         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-book-search-challenge-418297'>도전 시작</a>                         |
-|       11 | 📖  MySQL 다중 테이블 연산                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-multi-table-operations-418306'>실습 시작</a>                  |
-|       12 | 🎯  저자 도서 정보 챌린지                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-author-book-information-challenge-418296'>도전 시작</a>             |
-|       13 | 📖  MySQL 데이터 집계 및 그룹화              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-data-aggregation-and-grouping-418304'>실습 시작</a>           |
-|       14 | 🎯  MySQL 판매 데이터 분석 챌린지            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-sales-data-analysis-challenge-418301'>도전 시작</a>           |
-|       15 | 📖  MySQL 사용자 및 권한 관리                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-user-and-privileges-management-418308'>실습 시작</a>          |
-|       16 | 🎯  MySQL 데이터베이스 접근 권한 챌린지      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-mysql-database-access-challenge-418300'>도전 시작</a>               |
-|       17 | 🎯  데이터베이스 보안 강화                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/mysql-make-database-more-secure-391535'>도전 시작</a>                     |
+|   인덱스 | 이름                                         | 난이도   | 연습                                                                                                                                                   |
+|----------|----------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 🧩 🆓 MySQL 설치 및 기본 설정                | 중급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-installation-and-basic-configuration-of-mysql-418415?course=mysql-for-beginners'>실습 시작</a> |
+|       02 | 🎯 🆓 MySQL 시스템 테이블 탐색               | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-explore-mysql-system-tables-391702?course=mysql-for-beginners'>도전 시작</a>                   |
+|       03 | 🧩 🆓 MySQL 을 이용한 데이터베이스 관리 기본 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-database-management-fundamentals-with-mysql-418414?course=mysql-for-beginners'>실습 시작</a>   |
+|       04 | 🎯 🆓 첫 번째 MySQL 데이터베이스 생성하기    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-create-your-first-mysql-database-418265?course=mysql-for-beginners'>도전 시작</a>              |
+|       05 | 🧩 🆓 MySQL 테이블 구조 및 데이터 유형       | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-table-structure-and-data-types-418307?course=mysql-for-beginners'>실습 시작</a>          |
+|       06 | 🎯 🆓 제품 카탈로그 테이블 생성              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-create-a-product-catalog-table-418298?course=mysql-for-beginners'>도전 시작</a>                |
+|       07 | 🧩 🆓 MySQL 기본 데이터 조작                 | 초급     | <a target='_blank' href='https://labex.io/ko/labs/sql-mysql-basic-data-manipulation-418303?course=mysql-for-beginners'>실습 시작</a>                   |
+|       08 | 🎯  영화 데이터 기록 챌린지                  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-record-movie-data-challenge-418302?course=mysql-for-beginners'>도전 시작</a>                   |
+|       09 | 🧩  MySQL 데이터 필터링 및 정렬              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-data-filtering-and-sorting-418305?course=mysql-for-beginners'>실습 시작</a>              |
+|       10 | 🎯  도서 검색 챌린지                         | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-book-search-challenge-418297?course=mysql-for-beginners'>도전 시작</a>                         |
+|       11 | 🧩  MySQL 다중 테이블 연산                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-multi-table-operations-418306?course=mysql-for-beginners'>실습 시작</a>                  |
+|       12 | 🎯  저자 도서 정보 챌린지                    | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-author-book-information-challenge-418296?course=mysql-for-beginners'>도전 시작</a>             |
+|       13 | 🧩  MySQL 데이터 집계 및 그룹화              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-data-aggregation-and-grouping-418304?course=mysql-for-beginners'>실습 시작</a>           |
+|       14 | 🎯  MySQL 판매 데이터 분석 챌린지            | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-sales-data-analysis-challenge-418301?course=mysql-for-beginners'>도전 시작</a>           |
+|       15 | 🧩  MySQL 사용자 및 권한 관리                | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-user-and-privileges-management-418308?course=mysql-for-beginners'>실습 시작</a>          |
+|       16 | 🎯  MySQL 데이터베이스 접근 권한 챌린지      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-mysql-database-access-challenge-418300?course=mysql-for-beginners'>도전 시작</a>               |
+|       17 | 🎯  데이터베이스 보안 강화                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/mysql-make-database-more-secure-391535?course=mysql-for-beginners'>도전 시작</a>                     |
 
 ## LabEx 소개
 
-LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, LabEx 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
+[LabEx](https://labex.io) 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입니다. 실험실, AI 지원 및 가상 머신을 결합하여 비디오 없는 실용적인 학습 경험을 제공합니다. 비디오 없는 독점적인 실습 실험실로 엄격한 '실습을 통한 학습' 접근 방식, 브라우저 내 대화형 온라인 환경에서 자동화된 단계별 확인, 스킬 트리 기반 시스템으로 구조화된 콘텐츠 구성, 30 개의 스킬 트리와 6,000 개 이상의 실험실을 포함하는 성장하는 학습 리소스로, [LabEx](https://labex.io) 는 종합적인 실습 교육을 제공합니다. 플랫폼에는 최신 AI 모델을 기반으로 구축된 학습 도우미 Labby 가 포함되어 대화형 학습 경험을 제공합니다.
 
 ## 더 보기
 
