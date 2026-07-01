@@ -1,49 +1,40 @@
 # MySQL para Principiantes
 
-## Idiomas
+**Idiomas:** [English](README.md) · [简体中文](README_zh.md) · [Español](README_es.md) · [Français](README_fr.md) · [Deutsch](README_de.md) · [日本語](README_ja.md) · [Русский](README_ru.md) · [한국어](README_ko.md) · [Português](README_pt.md)
 
-🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
-
-[![MySQL para Principiantes](https://cover-creator.labex.io/mysql-for-beginners.png?lang=es)](https://labex.io/es/courses/mysql-for-beginners)
-
-[![Start-Learning](https://img.shields.io/badge/Start-Learning-whitesmoke?style=for-the-badge)](https://labex.io/es/courses/mysql-for-beginners)
+<p align="center">
+  <a href="https://labex.io/es/courses/mysql-for-beginners">
+    <img src="https://course-cover.labex.io/mysql-for-beginners.png?lang=es" alt="MySQL para Principiantes">
+  </a>
+</p>
 
 En este curso, aprenderá qué son el Lenguaje de Consulta Estructurado (SQL) y las bases de datos, los conceptos básicos de la gestión de bases de datos, cómo configurar y optimizar MySQL, y cómo conectar el cliente MySQL a un Servidor MySQL.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
-![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
-![SQL](https://img.shields.io/badge/SQL-whitesmoke?style=for-the-badge&logo=sql)
-
+[Iniciar curso en LabEx](https://labex.io/es/courses/mysql-for-beginners)
 
 ## Ejercicios
 
-|   Índice | Nombre                                                   | Dificultad   | Práctica                                                                                                                                                         |
-|----------|----------------------------------------------------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 🧩 🆓 Instalación y configuración básica de MySQL        | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/mysql-installation-and-basic-configuration-of-mysql-418415?course=mysql-for-beginners'>Iniciar Laboratorio</a> |
-|       02 | 🎯 🆓 Explorar las tablas del sistema de MySQL           | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-explore-mysql-system-tables-391702?course=mysql-for-beginners'>Iniciar Desafío</a>                       |
-|       03 | 🧩 🆓 Fundamentos de gestión de bases de datos con MySQL | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-database-management-fundamentals-with-mysql-418414?course=mysql-for-beginners'>Iniciar Laboratorio</a>   |
-|       04 | 🎯 🆓 Crea tu primera base de datos MySQL                | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-create-your-first-mysql-database-418265?course=mysql-for-beginners'>Iniciar Desafío</a>                  |
-|       05 | 🧩 🆓 Estructura de tablas y tipos de datos de MySQL     | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-table-structure-and-data-types-418307?course=mysql-for-beginners'>Iniciar Laboratorio</a>          |
-|       06 | 🎯 🆓 Crear una tabla de catálogo de productos           | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-create-a-product-catalog-table-418298?course=mysql-for-beginners'>Iniciar Desafío</a>                    |
-|       07 | 🧩 🆓 Manipulación básica de datos en MySQL              | Principiante | <a target='_blank' href='https://labex.io/es/labs/sql-mysql-basic-data-manipulation-418303?course=mysql-for-beginners'>Iniciar Laboratorio</a>                   |
-|       08 | 🎯  Desafío de registro de datos de películas            | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-record-movie-data-challenge-418302?course=mysql-for-beginners'>Iniciar Desafío</a>                       |
-|       09 | 🧩  Filtrado y Ordenación de Datos en MySQL              | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-data-filtering-and-sorting-418305?course=mysql-for-beginners'>Iniciar Laboratorio</a>              |
-|       10 | 🎯  Desafío de búsqueda de libros                        | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-book-search-challenge-418297?course=mysql-for-beginners'>Iniciar Desafío</a>                             |
-|       11 | 🧩  Operaciones de múltiples tablas en MySQL             | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-multi-table-operations-418306?course=mysql-for-beginners'>Iniciar Laboratorio</a>                  |
-|       12 | 🎯  Desafío de información de libros de autores          | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-author-book-information-challenge-418296?course=mysql-for-beginners'>Iniciar Desafío</a>                 |
-|       13 | 🧩  Agregación y agrupación de datos en MySQL            | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-data-aggregation-and-grouping-418304?course=mysql-for-beginners'>Iniciar Laboratorio</a>           |
-|       14 | 🎯  Desafío de análisis de datos de ventas de MySQL      | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-sales-data-analysis-challenge-418301?course=mysql-for-beginners'>Iniciar Desafío</a>               |
-|       15 | 🧩  Gestión de usuarios y privilegios en MySQL           | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-user-and-privileges-management-418308?course=mysql-for-beginners'>Iniciar Laboratorio</a>          |
-|       16 | 🎯  Desafío de acceso a la base de datos MySQL           | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-database-access-challenge-418300?course=mysql-for-beginners'>Iniciar Desafío</a>                   |
-|       17 | 🎯  Hacer la base de datos más segura                    | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-make-database-more-secure-391535?course=mysql-for-beginners'>Iniciar Desafío</a>                         |
+|   Índice | Nombre                                             | Dificultad   | Práctica                                                                                                                                                 |
+|----------|----------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | Instalación y configuración básica de MySQL        | Principiante | <a target='_blank' href='https://labex.io/es/labs/linux-installation-and-basic-configuration-of-mysql-418415?course=mysql-for-beginners'>Iniciar lab</a> |
+|       02 | Exploración de las Tablas del Sistema MySQL        | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-explore-mysql-system-tables-391702?course=mysql-for-beginners'>Iniciar desafío</a>               |
+|       03 | Fundamentos de gestión de bases de datos con MySQL | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-database-management-fundamentals-with-mysql-418414?course=mysql-for-beginners'>Iniciar lab</a>   |
+|       04 | Crea tu primera base de datos MySQL                | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-create-your-first-mysql-database-418265?course=mysql-for-beginners'>Iniciar desafío</a>          |
+|       05 | Estructura de tablas y tipos de datos de MySQL     | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-table-structure-and-data-types-418307?course=mysql-for-beginners'>Iniciar lab</a>          |
+|       06 | Crear una Tabla de Catálogo de Productos           | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/create-a-product-catalog-table-418298?course=mysql-for-beginners'>Iniciar desafío</a>                  |
+|       07 | Manipulación básica de datos en MySQL              | Principiante | <a target='_blank' href='https://labex.io/es/labs/sql-mysql-basic-data-manipulation-418303?course=mysql-for-beginners'>Iniciar lab</a>                   |
+|       08 | Desafío de Registro de Datos Cinematográficos      | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/record-movie-data-challenge-418302?course=mysql-for-beginners'>Iniciar desafío</a>                     |
+|       09 | Filtrado y Ordenación de Datos en MySQL            | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-data-filtering-and-sorting-418305?course=mysql-for-beginners'>Iniciar lab</a>              |
+|       10 | Desafío de Búsqueda de Libros                      | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/book-search-challenge-418297?course=mysql-for-beginners'>Iniciar desafío</a>                           |
+|       11 | Operaciones de múltiples tablas en MySQL           | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-multi-table-operations-418306?course=mysql-for-beginners'>Iniciar lab</a>                  |
+|       12 | Desafío de Información de Libros y Autores         | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/author-book-information-challenge-418296?course=mysql-for-beginners'>Iniciar desafío</a>               |
+|       13 | Agregación y agrupación de datos en MySQL          | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-data-aggregation-and-grouping-418304?course=mysql-for-beginners'>Iniciar lab</a>           |
+|       14 | Desafío de Análisis de Datos de Ventas en MySQL    | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/mysql-sales-data-analysis-challenge-418301?course=mysql-for-beginners'>Iniciar desafío</a>             |
+|       15 | Gestión de usuarios y privilegios en MySQL         | Principiante | <a target='_blank' href='https://labex.io/es/labs/mysql-mysql-user-and-privileges-management-418308?course=mysql-for-beginners'>Iniciar lab</a>          |
+|       16 | Desafío de Acceso a Base de Datos MySQL            | Intermedio   | <a target='_blank' href='https://labex.io/es/labs/mysql-database-access-challenge-418300?course=mysql-for-beginners'>Iniciar desafío</a>                 |
+|       17 | Reforzar la Seguridad de la Base de Datos          | Avanzado     | <a target='_blank' href='https://labex.io/es/labs/mysql-make-database-more-secure-391535?course=mysql-for-beginners'>Iniciar desafío</a>                 |
 
-## Acerca de LabEx
+## About LabEx
 
-[LabEx](https://labex.io) es una plataforma de aprendizaje interactiva y práctica dedicada a la programación y la tecnología. Combina laboratorios, asistencia de IA y máquinas virtuales para proporcionar una experiencia de aprendizaje práctica sin videos. Con un enfoque estricto de 'Aprender Haciendo', entornos en línea interactivos dentro del navegador con verificaciones paso a paso automatizadas, organización de contenido estructurada con el sistema basado en Árbol de Habilidades, y un recurso de aprendizaje en crecimiento de 30 Árboles de Habilidades y más de 6,000 Laboratorios, LabEx ofrece educación práctica integral. La plataforma incluye al asistente de aprendizaje Labby, construido sobre los últimos modelos de IA, que proporciona una experiencia de aprendizaje conversacional.
-
-## Más
-
-- 🔗 [MySQL Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [MySQL Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [MySQL Tutoriales Gratuitos](https://github.com/labex-labs/mysql-free-tutorials)
+<div align="left"><p><a href="https://labex.io"><strong>LabEx</strong></a> is a <strong>hands-on learning platform for beginners</strong>.</p><p>Explore <a href="https://labex.io/learn/linux"><strong>Linux</strong></a>, <a href="https://labex.io/learn/devops"><strong>DevOps</strong></a>, <a href="https://labex.io/learn/cybersecurity"><strong>Cybersecurity</strong></a>, and <strong>more</strong> — all directly in your browser.</p><p>Learn step by step through <strong>interactive labs</strong>, <strong>guided exercises</strong>, and <strong>real-world projects</strong>. 🌱<br />No setup, no stress — just practice and grow your skills by doing.</p><br /><p><a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="54" /></a>&nbsp;<a href="https://apps.apple.com/app/id6765840991"><img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" alt="Download on the Mac App Store" height="52" /></a></p><br /><p>📖 Need help? Visit our <a href="https://support.labex.io/">Help Center</a> or email info@labex.io</p></div>
 
